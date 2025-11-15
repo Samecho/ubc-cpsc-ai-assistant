@@ -1,0 +1,247 @@
+{"text": "<s>[INST] What is the course CPSC 100 about? [/INST] CPSC 100 is about the meaning and impact of computational thinking, and solving problems using computational thinking, testing, and debugging. It also covers how computers work.</s>"}
+{"text": "<s>[INST] Who is CPSC 103 targeted towards? [/INST] CPSC 103 targets students desiring an introduction to computing and programming, but with no plans to take further Computer Science courses.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 107? [/INST] The prerequisite for CPSC 107 is CPSC 103.</s>"}
+{"text": "<s>[INST] What course structure does CPSC 110 have? [/INST] CPSC 110 has a structure of [3-3-0].</s>"}
+{"text": "<s>[INST] Can students with credit for CPSC 110 take CPSC 103? [/INST] No, students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160 may not take CPSC 103 for credit.</s>"}
+{"text": "<s>[INST] What topics are covered in CPSC 121? [/INST] CPSC 121 covers the physical and mathematical structures of computation, including Boolean algebra and combinations logic circuits, proof techniques, functions and sequential circuits, sets and relations, finite state machines, and sequential instruction execution.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 121? [/INST] Prerequisites for CPSC 121 are Principles of Mathematics 12 or Pre-calculus 12, and a corequisite of either CPSC 107 or CPSC 110.</s>"}
+{"text": "<s>[INST] What is the focus of CPSC 210? [/INST] CPSC 210, Software Construction, focuses on the design, development, and analysis of robust software components. Topics include software design, computational models, data structures, debugging, and testing.</s>"}
+{"text": "<s>[INST] What course cannot be taken for credit if you are currently registered in CPSC 110? [/INST] Students currently registered in CPSC 110 or with Computer Science credit from another institution may not take APSC 160 for credit.</s>"}
+{"text": "<s>[INST] What is CPSC 213 about? [/INST] CPSC 213, Introduction to Computer Systems, covers software architecture, operating systems, and I/O architectures, focusing on the relationships between application software, operating systems, and computing hardware. It also discusses critical sections, deadlock avoidance, performance, and the operation of disks and networks.</s>"}
+{"text": "<s>[INST] What courses must be completed before taking CPSC 213? [/INST] All of CPSC 121 and CPSC 210 are prerequisites for CPSC 213.</s>"}
+{"text": "<s>[INST] Describe CPSC 221 in brief. [/INST] CPSC 221, Basic Algorithms and Data Structures, covers the design and analysis of basic algorithms and data structures, including algorithm analysis methods, searching and sorting algorithms, basic data structures, graphs, and concurrency.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 221? [/INST] Prerequisites for CPSC 221 are one of CPSC 210 or CPEN 221, and either CPSC 121, MATH 220, or a score of 68% or higher in MATH 226.</s>"}
+{"text": "<s>[INST] What is CPSC 259 designed for? [/INST] CPSC 259 is titled Data Structures and Algorithms for Electrical Engineers and covers advanced procedural programming, fundamental algorithms for sorting and searching, data structures like lists, trees, and hash tables, and an introduction to scripting languages and file input/output.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 259? [/INST] The prerequisite for CPSC 259 is APSC 160.</s>"}
+{"text": "<s>[INST] How long is CPSC 298 Co-operative Work Placement I? [/INST] CPSC 298 is for a minimum of 3.5 months of approved and supervised technical work experience in the computing industry, normally taken during the Winter Session of the second year.</s>"}
+{"text": "<s>[INST] Can I get Credit/D/Fail grading for CPSC 299? [/INST] No, CPSC 299, Co-operative Work Placement II, is not eligible for Credit/D/Fail grading.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 304? [/INST] The prerequisite for CPSC 304, Introduction to Relational Databases, is CPSC 221 or DSCI 221.</s>"}
+{"text": "<s>[INST] What is the main focus of CPSC 310? [/INST] CPSC 310, Introduction to Software Engineering, focuses on the specification, design, validation, evolution, and construction of modern software systems, including topics like ethics, intellectual property, and information security.</s>"}
+{"text": "<s>[INST] What courses are required before taking CPSC 310? [/INST] Both CPSC 213 and CPSC 221 are prerequisites for CPSC 310.</s>"}
+{"text": "<s>[INST] What topics are covered in CPSC 311? [/INST] CPSC 311, Definition of Programming Languages, involves the comparative study of advanced programming language features like statement types, data types, variable binding, parameter passing mechanisms, and methods for syntactic and semantic description.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 311? [/INST] The prerequisite for CPSC 311 is CPSC 210.</s>"}
+{"text": "<s>[INST] What programming paradigms are used in CPSC 312? [/INST] CPSC 312, Functional and Logic Programming, uses languages based upon first-order logic and the lambda calculus for principles of symbolic computing.</s>"}
+{"text": "<s>[INST] What prerequisites are needed for CPSC 313? [/INST] Prerequisites for CPSC 313, Computer Hardware and Operating Systems, are CPSC 213 and either CPSC 221 or DSCI 221.</s>"}
+{"text": "<s>[INST] What is the core topic of CPSC 314? [/INST] CPSC 314, Computer Graphics, covers human vision and colour, geometric transformations, algorithms for 2-D and 3-D graphics, hardware/system architectures, shading, lighting, and animation.</s>"}
+{"text": "<s>[INST] What is CPSC 317 about? [/INST] CPSC 317, Introduction to Computer Networking, covers computer networking, basic communication protocols, network infrastructure and routing, common application-level protocols, and principles for developing distributed applications.</s>"}
+{"text": "<s>[INST] What is CPSC 319? [/INST] CPSC 319, Software Engineering Project, is a team-based course focused on the design, implementation, and test of a large software system.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 319? [/INST] The prerequisite for CPSC 319 is CPSC 310.</s>"}
+{"text": "<s>[INST] What is CPSC 320 primarily focused on? [/INST] CPSC 320, Intermediate Algorithm Design and Analysis, is the systematic study of basic concepts and techniques in the design and analysis of algorithms, covering topics like models of computation, choice of data structures, graph-theoretic, algebraic, and text processing algorithms.</s>"}
+{"text": "<s>[INST] What are the math/stats prerequisites for CPSC 320? [/INST] Prerequisites for CPSC 320 include CPSC 221 or DSCI 221, and at least 3 credits from COMM 291, BIOL 300, or a MATH or STAT course at the 200 level or above.</s>"}
+{"text": "<s>[INST] What does CPSC 322 cover? [/INST] CPSC 322, Introduction to Artificial Intelligence, covers problem-solving and planning, state/action models and graph searching, natural language understanding, computational vision, and applications of artificial intelligence.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 322? [/INST] The prerequisite for CPSC 322 is CPSC 221.</s>"}
+{"text": "<s>[INST] What is the emphasis of CPSC 330? [/INST] CPSC 330, Applied Machine Learning, emphasizes the application of machine learning tools to solve practical problems, including data cleaning, feature extraction, supervised/unsupervised machine learning, reproducible workflows, and communicating results.</s>"}
+{"text": "<s>[INST] What is CPSC 340 about? [/INST] CPSC 340, Machine Learning and Data Mining, covers models and algorithms for dimensionality reduction, nonlinear regression, classification, clustering, and unsupervised learning, with applications across various fields like computer graphics, bio-informatics, and artificial intelligence.</s>"}
+{"text": "<s>[INST] What is the purpose of CPSC 344? [/INST] CPSC 344, Introduction to Human Computer Interaction Methods, teaches basic tools and techniques, a systematic approach to interface design, task analysis, and analytic/empirical evaluation methods.</s>"}
+{"text": "<s>[INST] What standing is required to enroll in CPSC 349? [/INST] CPSC 349, Honours Research Seminar, is available to Honours students. Majors students with satisfactory standing may also be permitted to enrol.</s>"}
+{"text": "<s>[INST] What topics are covered in CPSC 368? [/INST] CPSC 368, Databases in Data Science, provides an overview of relational and non-relational database systems, the role of a database in querying data, data modelling, query languages, and query optimization.</s>"}
+{"text": "<s>[INST] What prerequisites are needed for CPSC 368? [/INST] The prerequisite for CPSC 368 is one of CPSC 203, CPSC 210, CPEN 221, or DSCI 221.</s>"}
+{"text": "<s>[INST] When is CPSC 398 typically taken? [/INST] CPSC 398, Co-operative Work Placement III, is normally taken during the summer following the third year.</s>"}
+{"text": "<s>[INST] What is the difference between CPSC 110 and CPSC 103? [/INST] CPSC 110 (4 credits) is for students pursuing CS specializations or planning CPSC 210. CPSC 103 (3 credits) is for students wanting an introduction to computing with no plans for further CS courses.</s>"}
+{"text": "<s>[INST] What is CPSC 402 about? [/INST] CPSC 402, Numerical Linear Algebra, investigates practical techniques of computational linear algebra, including orthogonal transformations, the solution of linear equations, the eigenproblem, and linear least squares, with refinements for sparse matrices.</s>"}
+{"text": "<s>[INST] What prerequisites are required for CPSC 402? [/INST] The prerequisite for CPSC 402 is one of CPSC 302, CPSC 303, or MATH 307.</s>"}
+{"text": "<s>[INST] What does CPSC 404 cover? [/INST] CPSC 404, Advanced Relational Databases, covers physical database design, indexing, external mergesort, relational query processing/optimization, transaction processing, concurrency control, and crash recovery.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 410? [/INST] The prerequisites for CPSC 410, Advanced Software Engineering, are either CPSC 310 or all of CPEN 321 and CPEN 331.</s>"}
+{"text": "<s>[INST] What is the main project in CPSC 411? [/INST] CPSC 411, Introduction to Compiler Construction, involves designing and implementing a compiler for a small language, covering lexical analysis, syntactic analysis, type-checking, code generation, and optimization.</s>"}
+{"text": "<s>[INST] What is the focus of CPSC 415? [/INST] CPSC 415, Advanced Operating Systems, focuses on topics like process synchronization, communication schemes, virtual memory systems management, information sharing, the working set principle, traps and interrupt handling, elementary queuing theory, and file systems.</s>"}
+{"text": "<s>[INST] What is the difference between CPSC 416 and CPSC 317? [/INST] CPSC 317 is an Introduction to Computer Networking, while CPSC 416 covers the Concepts and design of Distributed Systems, including communication architecture, process migration, naming, distributed file systems, fault tolerance, and concurrency control.</s>"}
+{"text": "<s>[INST] What topics are covered in CPSC 417? [/INST] CPSC 417, Computer Networking, covers network protocols and architecture, internetworking, the Internet, layered communication protocols, routing, flow and congestion control, network performance, and wired/wireless data communication.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 420? [/INST] The prerequisite for CPSC 420, Advanced Algorithms Design and Analysis, is CPSC 320.</s>"}
+{"text": "<s>[INST] What is the main idea behind CPSC 421? [/INST] CPSC 421, Introduction to Theory of Computing, is about the characterizations of computability (machines, languages, functions), universality, equivalence, Church's thesis, unsolvable problems, finite automata, grammars, and formal languages.</s>"}
+{"text": "<s>[INST] What is CPSC 422 about? [/INST] CPSC 422, Intelligent Systems, covers the principles and techniques for designing, implementing, and evaluating intelligent computational systems, including applications in natural language understanding, image understanding, and expert/advisor systems.</s>"}
+{"text": "<s>[INST] What is Geometric Modelling CPSC 424 focused on? [/INST] CPSC 424 focuses on the digital representation of curves and surfaces, including splines, subdivision surfaces and meshes, and algorithms for the acquisition, creation, representation, and processing of 3D shapes.</s>"}
+{"text": "<s>[INST] What prerequisites are required for CPSC 425? [/INST] Prerequisites for CPSC 425, Computer Vision, are all of CPSC 221, MATH 200, and MATH 221.</s>"}
+{"text": "<s>[INST] What is CPSC 426 about? [/INST] CPSC 426, Computer Animation, covers motion in computer graphics for characters and their environments, including keyframing, inverse kinematics, particle systems, rigid body dynamics, contact/collision, controller-based active motion, and motion capture.</s>"}
+{"text": "<s>[INST] What is CPSC 430 about? [/INST] CPSC 430, Computers and Society, discusses the impact of computer technology on society, historical perspectives, social/economic consequences of large-scale information processing, legal/ethical problems, and the problematic interface between man and machine.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 430? [/INST] The prerequisites for CPSC 430 are 3 credits of Computer Science and at least third-year standing.</s>"}
+{"text": "<s>[INST] What is the focus of CPSC 440? [/INST] CPSC 440, Advanced Machine Learning, focuses on probabilistic models, including deep learning, exponential families and Bayesian inference, probabilistic graphical models, generative models, Monte Carlo, and variational inference methods.</s>"}
+{"text": "<s>[INST] What prerequisites are required for CPSC 440? [/INST] The prerequisites for CPSC 440 are all of CPSC 320 and CPSC 340.</s>"}
+{"text": "<s>[INST] What does CPSC 444 focus on? [/INST] CPSC 444, Advanced Methods for Human Computer Interaction, covers design and evaluation methodologies/theories, formal models of the user (visual, motor, information processing), advanced evaluation methods (laboratory experiments, field studies), and HCI research frontiers.</s>"}
+{"text": "<s>[INST] What is CPSC 445 about? [/INST] CPSC 445, Algorithms in Bioinformatics, covers topics like sequence alignment, phylogenetic tree reconstruction, prediction of RNA/protein structure, gene finding and sequence annotation, gene expression, and biomolecular computing.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 445? [/INST] Prerequisites for CPSC 445 are CPSC 320 and either BMEG 250 or six credits of BIOL beyond BIOL 111.</s>"}
+{"text": "<s>[INST] What is CPSC 447 about? [/INST] CPSC 447, Introduction to Visualization, covers the design and implementation of static and interactive visualizations, selection of appropriate methods, and assessment of visual representations according to design and perceptual principles.</s>"}
+{"text": "<s>[INST] What is CPSC 449? [/INST] CPSC 449 is the Honours Thesis, where students, under faculty supervision, investigate a research topic and prepare a thesis.</s>"}
+{"text": "<s>[INST] What is the format of CPSC 455? [/INST] CPSC 455, Applied Industry Practices, is a hands-on project course, mentored by industry experts, integrating skills like technical skills, communication, teamwork, networking, and portfolio building.</s>"}
+{"text": "<s>[INST] What is CPSC 491? [/INST] CPSC 491, Interactive Digital Media Practicum, involves the design and implementation of interactive digital media systems using modern processes and tools, developed by interdisciplinary teams for external clients or entrepreneurial pitches.</s>"}
+{"text": "<s>[INST] What is the Co-operative Work Placement V course number? [/INST] The Co-operative Work Placement V course number is CPSC 499.</s>"}
+{"text": "<s>[INST] Can I take CPSC 100 if I already have credit for APSC 160? [/INST] No, CPSC 100 is not for students with existing credit for or exemption from CPSC 107, CPSC 110, or APSC 160.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 103? [/INST] CPSC 103 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What are the components of CPSC 203? [/INST] CPSC 203 covers problem decomposition and abstraction to explore topics from applied algorithms like Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search, using a modern programming language.</s>"}
+{"text": "<s>[INST] Is CPSC 203 for students enrolled in CPSC 210? [/INST] No, CPSC 203 is not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221.</s>"}
+{"text": "<s>[INST] What is the course CPSC 261 about? [/INST] CPSC 261, Basics of Computer Systems, covers software architecture, operating systems, and I/O architectures, similar to CPSC 213, focusing on system components and principles.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 261? [/INST] Prerequisites for CPSC 261 are one of EECE 259 or CPEN 211, and one of EECE 210 or CPEN 221.</s>"}
+{"text": "<s>[INST] What is the focus of CPSC 302? [/INST] CPSC 302, Numerical Computation for Algebraic Problems, focuses on numerical techniques for algebraic processes without discretization, including solution of linear systems, round-off error analysis, norms, condition number, iterative techniques, and solution to nonlinear equations.</s>"}
+{"text": "<s>[INST] What is CPSC 303 about? [/INST] CPSC 303, Numerical Approximation and Discretization, focuses on numerical techniques involving discretization, such as interpolation and approximation (splines, least squares), numerical differentiation and integration, and numerical initial value ordinary differential equations.</s>"}
+{"text": "<s>[INST] What are the math prerequisites for CPSC 302 and CPSC 303? [/INST] Both CPSC 302 and 303 require one of CPSC 103, CPSC 110, CPEN 221, EOSC 211, or PHYS 210; one of MATH 101, 103, 105, 121, or SCIE 001; and one of MATH 152, 221, or 223.</s>"}
+{"text": "<s>[INST] What does CPSC 304 cover? [/INST] CPSC 304, Introduction to Relational Databases, covers overview of database systems, ER models, logical database design and normalization, formal relational query languages, SQL, data warehouses, and special topics.</s>"}
+{"text": "<s>[INST] What is CPSC 406 about? [/INST] CPSC 406, Computational Optimization, covers the formulation and analysis of algorithms for continuous and discrete optimization problems, including linear, nonlinear, network, dynamic, and integer optimization, large-scale problems, duality theory, and software packages.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 406? [/INST] The prerequisite for CPSC 406 is one of CPSC 302, CPSC 303, or MATH 307.</s>"}
+{"text": "<s>[INST] What is required to take CPSC 416? [/INST] Prerequisites for CPSC 416, Distributed Systems, are one of CPSC 313 or CPEN 331, and one of CPSC 317 or ELEC 331.</s>"}
+{"text": "<s>[INST] What does CPSC 418 cover? [/INST] CPSC 418, Parallel Computation, covers algorithms, architectures, and programming paradigms for parallel computation, including shared memory, message passing, parallel algorithms (reduce, scan, sorting networks), correctness reasoning, and performance analysis.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 418? [/INST] Prerequisites for CPSC 418 are CPSC 320 and one of CPSC 261, CPSC 313, CPEN 212, or CPEN 411.</s>"}
+{"text": "<s>[INST] What is the difference between CPSC 420 and CPSC 320? [/INST] CPSC 320 is Intermediate Algorithm Design and Analysis, while CPSC 420 is Advanced Algorithms Design and Analysis, covering advanced topics like graph-theoretic, algebraic, and geometric algorithms, nonsequential models, complexity issues, and approximation algorithms.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 421? [/INST] The prerequisite for CPSC 421 is one of CPSC 320, MATH 220, or MATH 226.</s>"}
+{"text": "<s>[INST] What courses are needed for CPSC 427? [/INST] Prerequisites for CPSC 427, Video Game Programming, are CPSC 314, one of MATH 200, 217, 226, or 253, and one of MATH 152, 221, or 223.</s>"}
+{"text": "<s>[INST] Can CPSC 436 be taken multiple times? [/INST] Yes, CPSC 436, Topics in Computer Science, may be taken more than once for credit with permission of the department.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 444? [/INST] Prerequisites for CPSC 444 are CPSC 344 and one of several listed statistics courses (e.g., STAT 200, BIOL 300, PSYC 218).</s>"}
+{"text": "<s>[INST] How is CPSC 455 structured? [/INST] CPSC 455 has a structure of [2.5-2-0].</s>"}
+{"text": "<s>[INST] What is CPSC 490? [/INST] CPSC 490 is a Student Directed Seminar, which involves self-directed, collaborative studies initiated and coordinated by senior undergraduate students with faculty supervision.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 491? [/INST] Prerequisites for CPSC 491 are all of CPSC 221, CPSC 310, CPSC 344, and Third-year standing.</s>"}
+{"text": "<s>[INST] Which first-year course is for students pursuing CS specializations? [/INST] CPSC 110 is for students pursuing Computer Science specializations or who plan to take CPSC 210.</s>"}
+{"text": "<s>[INST] Where can I find information on first-year course selection? [/INST] Consult https://www.cs.ubc.ca/students/undergrad/courses/choose-your-first-cour… for more information.</s>"}
+{"text": "<s>[INST] What is the course CPSC 107 about? [/INST] CPSC 107, Systematic Program Design, covers fundamental computation and program structures and is a continuing systematic program design from CPSC 103.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 121? [/INST] CPSC 121 has a credit value of 4.</s>"}
+{"text": "<s>[INST] What is one prerequisite for CPSC 203? [/INST] One prerequisite for CPSC 203 is CPSC 110. Other options are CPSC 103, APSC 160, EOSC 211, MATH 210, PHYS 210, or COMM 337.</s>"}
+{"text": "<s>[INST] What are the lecture hours for CPSC 210? [/INST] CPSC 210 has 3 lecture hours and 2 lab hours, represented as [3-2-0].</s>"}
+{"text": "<s>[INST] What is the corequisite for CPSC 121? [/INST] The corequisite for CPSC 121 is one of CPSC 107 or CPSC 110.</s>"}
+{"text": "<s>[INST] What topics are included in the CPSC 213 curriculum? [/INST] Topics in CPSC 213 include critical sections, deadlock avoidance, performance, and principles/operation of disks and networks.</s>"}
+{"text": "<s>[INST] What is covered in CPSC 221 regarding algorithms? [/INST] CPSC 221 covers algorithm analysis methods, searching and sorting algorithms.</s>"}
+{"text": "<s>[INST] What are CPSC 298 and CPSC 299? [/INST] CPSC 298 and CPSC 299 are Co-operative Work Placements (I and II), which are approved and supervised technical work experiences in the computing industry for a minimum of 3.5 months each.</s>"}
+{"text": "<s>[INST] How many credits is CPSC 302? [/INST] CPSC 302 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What are special topics in CPSC 304? [/INST] CPSC 304 includes a discussion of special topics in relational databases and covers data warehouses.</s>"}
+{"text": "<s>[INST] What domains are covered in CPSC 310? [/INST] CPSC 310 covers specification, design, validation, evolution and construction of modern software systems, in the context of ethics, intellectual property, and information security.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 317? [/INST] Prerequisites for CPSC 317 are CPSC 213 and either CPSC 221 or DSCI 221.</s>"}
+{"text": "<s>[INST] What skills are covered in CPSC 330? [/INST] Skills covered in CPSC 330 include data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results.</s>"}
+{"text": "<s>[INST] What math courses are needed for CPSC 340? [/INST] CPSC 340 requires one of MATH 152, 221, or 223; one of MATH 200, 217, 226, 253, or 254; and one of STAT 241, 251, ECON 325, 327, MATH 302, 318, or STAT 302.</s>"}
+{"text": "<s>[INST] What methods are taught in CPSC 344? [/INST] CPSC 344 teaches basic tools and techniques for interface design, task analysis, and analytic and empirical evaluation methods.</s>"}
+{"text": "<s>[INST] What is the purpose of CPSC 349? [/INST] The purpose of CPSC 349 is for students to attend research seminars, produce a thesis proposal, and choose their honours thesis supervisor.</s>"}
+{"text": "<s>[INST] What prerequisites are needed for CPSC 411? [/INST] Prerequisites for CPSC 411 are all of CPSC 213, CPSC 221, and CPSC 311.</s>"}
+{"text": "<s>[INST] How many credits is CPSC 499? [/INST] CPSC 499 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What are some applications of CPSC 340? [/INST] Applications of CPSC 340 include computer graphics, computer games, bio-informatics, information retrieval, e-commerce, databases, computer vision, and artificial intelligence.</s>"}
+{"text": "<s>[INST] What is the typical timing for CPSC 399? [/INST] CPSC 399, Co-operative Work Placement IV, is normally taken during the fall term of the fourth year.</s>"}
+{"text": "<s>[INST] Can I take CPSC 404 without CPSC 304? [/INST] No, CPSC 304 is a prerequisite for CPSC 404, Advanced Relational Databases.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 426? [/INST] The prerequisite for CPSC 426, Computer Animation, is CPSC 314.</s>"}
+{"text": "<s>[INST] What is CPSC 425 focused on? [/INST] CPSC 425, Computer Vision, focuses on the processing and interpretation of images, including sensing, sampling, filtering, colour analysis, texture description, stereo imaging, motion interpretation, 3D shape recovery, and recognition.</s>"}
+{"text": "<s>[INST] What are some topics in CPSC 440? [/INST] Topics in CPSC 440 include deep learning and differentiable programming, exponential families and Bayesian inference, and probabilistic graphical models.</s>"}
+{"text": "<s>[INST] What is CPSC 448? [/INST] CPSC 448 is Directed Studies in Computer Science, consisting of supervised reading, a seminar, and/or programming projects, available to students with at least a 72% average and departmental permission.</s>"}
+{"text": "<s>[INST] What are the components of CPSC 491 interdisciplinary teams? [/INST] CPSC 491 teams are composed of one CPSC 491 student and multiple Master of Digital Media students.</s>"}
+{"text": "<s>[INST] What is the goal of CPSC 100? [/INST] The goal of CPSC 100 is a general introduction to computational thinking with little programming.</s>"}
+{"text": "<s>[INST] What is CPSC 110 about? [/INST] CPSC 110 covers fundamental program and computation structures, introductory programming skills, and computation as a tool for information processing, simulation/modelling, and interacting with the world.</s>"}
+{"text": "<s>[INST] What is a key topic in CPSC 213? [/INST] A key topic in CPSC 213 is the relationship between application software, operating systems, and computing hardware.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 210? [/INST] CPSC 210 has a credit value of 4.</s>"}
+{"text": "<s>[INST] What is the difference in focus between CPSC 302 and CPSC 303? [/INST] CPSC 302 focuses on numerical computation for algebraic problems (no discretization), while CPSC 303 focuses on numerical approximation and discretization.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 312? [/INST] The prerequisite for CPSC 312 is one of CPSC 210 or CPEN 221.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 314? [/INST] Prerequisites for CPSC 314 are CPSC 221, one of MATH 200, 217, 226, or 253, and one of MATH 152, 221, or 223.</s>"}
+{"text": "<s>[INST] What is required for CPSC 330? [/INST] CPSC 330 requires either one of CPSC 203, 210, CPEN 221, or DSCI 221, OR MATH 210 and one of CPSC 107 or CPSC 110.</s>"}
+{"text": "<s>[INST] What is CPSC 398? [/INST] CPSC 398 is the Co-operative Work Placement III, a minimum 3.5 months supervised technical work experience.</s>"}
+{"text": "<s>[INST] What is a key topic in CPSC 404? [/INST] A key topic in CPSC 404 is physical database design, including indexing and external mergesort.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 417? [/INST] Prerequisites for CPSC 417 are all of CPSC 313, CPSC 317, and one of STAT 200, 201, 241, or 251.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 420? [/INST] CPSC 420 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What prerequisites are required for CPSC 424? [/INST] Prerequisites for CPSC 424 are one of MATH 152, 221, or 223 and one of MATH 200, 217, 226, or 253.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 449? [/INST] The prerequisite for CPSC 449, Honours Thesis, is CPSC 349.</s>"}
+{"text": "<s>[INST] Can non-Honours students take CPSC 349? [/INST] Majors students with satisfactory standing may also be permitted to enrol in CPSC 349.</s>"}
+{"text": "<s>[INST] What is one prerequisite for CPSC 221? [/INST] One prerequisite for CPSC 221 is CPSC 210 or CPEN 221.</s>"}
+{"text": "<s>[INST] What are the core topics of CPSC 210? [/INST] Core topics of CPSC 210 are software design, computational models, data structures, debugging, and testing.</s>"}
+{"text": "<s>[INST] What are the lab/tutorial hours for CPSC 121? [/INST] CPSC 121 has 2 lab hours and 1 tutorial hour, represented as [3-2-1].</s>"}
+{"text": "<s>[INST] What is the main theme of CPSC 418? [/INST] The main theme of CPSC 418 is Parallel Computation, focusing on its algorithms, architectures, and programming paradigms.</s>"}
+{"text": "<s>[INST] What is the course CPSC 422 focused on? [/INST] CPSC 422 focuses on intelligent computational systems, including applications to natural language and image understanding, and advanced symbolic programming methodology.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 427? [/INST] CPSC 427 has a structure of [1.5–1.5-1].</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 455? [/INST] The prerequisite for CPSC 455 is one of CPSC 310 or CPEN 321.</s>"}
+{"text": "<s>[INST] What is the minimum length for CPSC 298? [/INST] The minimum length for CPSC 298 is 3.5 months of approved and supervised technical work experience.</s>"}
+{"text": "<s>[INST] Which first-year course is a general introduction to computational thinking? [/INST] CPSC 100 targets students desiring a general introduction to computational thinking with little programming.</s>"}
+{"text": "<s>[INST] What is CPSC 103's focus? [/INST] CPSC 103 focuses on computation as a tool for systematic problem solving in non-computer-science disciplines and introductory programming skills.</s>"}
+{"text": "<s>[INST] Can I challenge CPSC 110 for credit? [/INST] Students with sufficient background in the concepts presented in CPSC 110 and an advisor's approval are encouraged to challenge CPSC 110 for credit by taking an examination.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 319? [/INST] CPSC 319 has a structure of [3-0-2].</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 322? [/INST] CPSC 322 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 344? [/INST] CPSC 344 has a structure of [2-2-2].</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 415? [/INST] The prerequisite for CPSC 415, Advanced Operating Systems, is one of CPSC 313 or CPEN 331.</s>"}
+{"text": "<s>[INST] What is one of the main topics in CPSC 424? [/INST] One of the main topics in CPSC 424 is the digital representation of curves and surfaces, including splines, subdivision surfaces, and meshes.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 427? [/INST] CPSC 427 prerequisites are CPSC 314, a Calculus course, and an advanced Math course.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 440? [/INST] CPSC 440 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 444? [/INST] CPSC 444 has a structure of [2-2-2].</s>"}
+{"text": "<s>[INST] What is CPSC 490 about? [/INST] CPSC 490 is a self-directed, collaborative studies course initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor.</s>"}
+{"text": "<s>[INST] What type of course is CPSC 436? [/INST] CPSC 436 is a Topics in Computer Science course focusing on selected topics in a specific area.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 410? [/INST] CPSC 410 requires CPSC 310 OR CPEN 321 and CPEN 331.</s>"}
+{"text": "<s>[INST] What does CPSC 313 cover? [/INST] CPSC 313 covers instruction sets, pipelining, code optimization, caching, virtual memory management, dynamically linked libraries, exception processing, and execution time of programs.</s>"}
+{"text": "<s>[INST] What is the purpose of CPSC 298? [/INST] CPSC 298 is for approved and supervised technical work experience in the computing industry.</s>"}
+{"text": "<s>[INST] Can I take CPSC 107 without CPSC 103? [/INST] No, CPSC 103 is a prerequisite for CPSC 107.</s>"}
+{"text": "<s>[INST] What is the focus of CPSC 203? [/INST] CPSC 203 focuses on the analysis of increasingly complex algorithmic problems and exploration of applied algorithms.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 310? [/INST] The prerequisite for CPSC 310 is CPSC 213 and CPSC 221.</s>"}
+{"text": "<s>[INST] What is the main idea of CPSC 320? [/INST] CPSC 320 is the systematic study of basic concepts and techniques in the design and analysis of algorithms.</s>"}
+{"text": "<s>[INST] Can CPSC 448 be taken for Credit/D/Fail? [/INST] No, CPSC 448 is not eligible for Credit/D/Fail grading.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 416? [/INST] CPSC 416 requires CPSC 313 or CPEN 331, AND CPSC 317 or ELEC 331.</s>"}
+{"text": "<s>[INST] What is CPSC 221 about? [/INST] CPSC 221 is about Basic Algorithms and Data Structures, covering design and analysis, searching, sorting, and graphs.</s>"}
+{"text": "<s>[INST] What is the typical timing for CPSC 298? [/INST] CPSC 298 is normally taken during the Winter Session of second year.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 110? [/INST] CPSC 110 has 3 lecture hours and 3 lab hours, represented as [3-3-0].</s>"}
+{"text": "<s>[INST] What is CPSC 344? [/INST] CPSC 344 is an Introduction to Human Computer Interaction Methods.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 422? [/INST] The prerequisite for CPSC 422 is CPSC 322.</s>"}
+{"text": "<s>[INST] What does CPSC 447 cover? [/INST] CPSC 447 covers the design and implementation of static and interactive visualizations and the selection of appropriate visualization methods.</s>"}
+{"text": "<s>[INST] Can CPSC 499 be graded as Credit/D/Fail? [/INST] No, CPSC 499 is not eligible for Credit/D/Fail grading.</s>"}
+{"text": "<s>[INST] What is the goal of CPSC 100? [/INST] CPSC 100 aims to provide a general introduction to computational thinking with little programming.</s>"}
+{"text": "<s>[INST] Who should take CPSC 110? [/INST] CPSC 110 is for students pursuing Computer Science specializations or who plan to take CPSC 210.</s>"}
+{"text": "<s>[INST] What are the lecture, lab, and tutorial hours for CPSC 100? [/INST] CPSC 100 has 3 lecture hours, 1 lab hour, and 0 tutorial hours, represented as [3-1-0].</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 203? [/INST] CPSC 203 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What is the main content of CPSC 311? [/INST] CPSC 311 focuses on the comparative study of advanced programming language features and methods for syntactic and semantic description of programming languages.</s>"}
+{"text": "<s>[INST] What is one prerequisite for CPSC 340? [/INST] One prerequisite for CPSC 340 is CPSC 221 or DSCI 221.</s>"}
+{"text": "<s>[INST] What are the main topics of CPSC 415? [/INST] CPSC 415 topics include process synchronization, virtual memory management, exception handling, and queuing theory for scheduling.</s>"}
+{"text": "<s>[INST] What does CPSC 420 focus on? [/INST] CPSC 420 focuses on advanced topics in the design and analysis of algorithms and associated data structures.</s>"}
+{"text": "<s>[INST] What are the core components of CPSC 440? [/INST] The core components of CPSC 440 are advanced machine learning techniques focusing on probabilistic models.</s>"}
+{"text": "<s>[INST] What is CPSC 445 about? [/INST] CPSC 445 covers algorithms in bioinformatics, such as sequence alignment and phylogenetic tree reconstruction.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 455? [/INST] CPSC 455 requires CPSC 310 or CPEN 321.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 447? [/INST] CPSC 447 has a structure of [3-0-0].</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 404? [/INST] CPSC 404 requires CPSC 304 and one of CPSC 213, CPSC 261, or CPEN 212.</s>"}
+{"text": "<s>[INST] Who is CPSC 259 for? [/INST] CPSC 259 is for Electrical Engineers, focusing on data structures and algorithms relevant to their field.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 319? [/INST] CPSC 310 is the prerequisite for CPSC 319.</s>"}
+{"text": "<s>[INST] What is the main project of CPSC 427? [/INST] CPSC 427 involves the start-to-finish simple video-game design and implementation.</s>"}
+{"text": "<s>[INST] What is the difference between CPSC 100 and CPSC 103? [/INST] CPSC 100 is for general computational thinking with little programming; CPSC 103 is for systematic problem solving and introductory programming, generally for non-CS specializations.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 320? [/INST] CPSC 320 requires CPSC 221 or DSCI 221, and 3 credits from certain higher-level MATH, STAT, COMM, or BIOL courses.</s>"}
+{"text": "<s>[INST] What is the focus of CPSC 368? [/INST] CPSC 368 focuses on relational and non-relational database systems and their usage in querying data for data science.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 421? [/INST] CPSC 421 requires CPSC 320, MATH 220, or MATH 226.</s>"}
+{"text": "<s>[INST] What is the typical timing for CPSC 398? [/INST] CPSC 398 is normally taken during the summer following the third year.</s>"}
+{"text": "<s>[INST] What is CPSC 491 about? [/INST] CPSC 491 is the Interactive Digital Media Practicum, a project-based course with external clients.</s>"}
+{"text": "<s>[INST] What topics are included in CPSC 417? [/INST] CPSC 417 includes layered communication protocols, routing, flow and congestion control, and network performance.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 425? [/INST] CPSC 425 requires CPSC 221, MATH 200, and MATH 221.</s>"}
+{"text": "<s>[INST] What is CPSC 304 about? [/INST] CPSC 304 is the Introduction to Relational Databases.</s>"}
+{"text": "<s>[INST] What does CPSC 410 focus on? [/INST] CPSC 410 focuses on the specification, design, construction and validation of multi-version software systems.</s>"}
+{"text": "<s>[INST] What does CPSC 322 cover? [/INST] CPSC 322 covers problem-solving and planning, state/action models, graph searching, natural language understanding, and computational vision.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 411? [/INST] CPSC 411 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 445? [/INST] CPSC 445 requires CPSC 320 and certain biology/engineering credits.</s>"}
+{"text": "<s>[INST] What is the main idea of CPSC 402? [/INST] CPSC 402 is about numerical linear algebra, including orthogonal transformations and the eigenproblem.</s>"}
+{"text": "<s>[INST] What is CPSC 430? [/INST] CPSC 430 is a course on Computers and Society, discussing the impact of computer technology on society and ethical issues.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 313? [/INST] CPSC 313 requires CPSC 213 and CPSC 221 or DSCI 221.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 418? [/INST] CPSC 418 has a structure of [3-0-0].</s>"}
+{"text": "<s>[INST] What topics are in CPSC 406? [/INST] CPSC 406 covers linear, nonlinear, network, dynamic, and integer optimization.</s>"}
+{"text": "<s>[INST] What is CPSC 426 about? [/INST] CPSC 426 is about Computer Animation.</s>"}
+{"text": "<s>[INST] What does CPSC 312 cover? [/INST] CPSC 312 covers the principles of symbolic computing using languages based on first-order logic and the lambda calculus.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 344? [/INST] CPSC 344 requires CPSC 210 or CPEN 221.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 317? [/INST] CPSC 317 requires CPSC 213 and CPSC 221 or DSCI 221.</s>"}
+{"text": "<s>[INST] What is CPSC 261? [/INST] CPSC 261 is Basics of Computer Systems.</s>"}
+{"text": "<s>[INST] What does CPSC 330 emphasize? [/INST] CPSC 330 emphasizes solving practical problems using machine learning tools.</s>"}
+{"text": "<s>[INST] What is CPSC 349? [/INST] CPSC 349 is the Honours Research Seminar.</s>"}
+{"text": "<s>[INST] What is CPSC 299? [/INST] CPSC 299 is the Co-operative Work Placement II.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 425? [/INST] CPSC 425 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What is CPSC 449? [/INST] CPSC 449 is the Honours Thesis course.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 491? [/INST] CPSC 491 has a credit value of 6.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 368? [/INST] CPSC 368 requires CPSC 203, CPSC 210, CPEN 221, or DSCI 221.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 426? [/INST] CPSC 426 requires CPSC 314.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 447? [/INST] CPSC 447 requires CPSC 310 or CPEN 321.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 430? [/INST] CPSC 430 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 304? [/INST] CPSC 304 requires CPSC 221 or DSCI 221.</s>"}
+{"text": "<s>[INST] What is CPSC 424 about? [/INST] CPSC 424 covers Geometric Modelling, including digital representation of curves and surfaces.</s>"}
+{"text": "<s>[INST] What is the difference between CPSC 422 and CPSC 322? [/INST] CPSC 322 is an Introduction to Artificial Intelligence, while CPSC 422 covers more advanced Intelligent Systems principles and techniques.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 420? [/INST] CPSC 420 requires CPSC 320.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 304? [/INST] CPSC 304 has a structure of [3-0-1].</s>"}
+{"text": "<s>[INST] What does CPSC 317 cover? [/INST] CPSC 317 covers basic communication protocols and network infrastructure.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 259? [/INST] CPSC 259 has a credit value of 4.</s>"}
+{"text": "<s>[INST] What is CPSC 340 about? [/INST] CPSC 340 covers Machine Learning and Data Mining models and algorithms.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 322? [/INST] CPSC 322 requires CPSC 221.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 311? [/INST] CPSC 311 requires CPSC 210.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 402? [/INST] CPSC 402 has a structure of [3-0-0].</s>"}
+{"text": "<s>[INST] What does CPSC 444 focus on? [/INST] CPSC 444 focuses on design and evaluation methodologies, formal models of the user, and advanced evaluation methods in Human Computer Interaction.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 449? [/INST] CPSC 449 has a credit value of 6.</s>"}
+{"text": "<s>[INST] What is CPSC 455? [/INST] CPSC 455 is Applied Industry Practices, a hands-on, industry-mentored project course.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 436? [/INST] CPSC 436 requires Third-year standing in a CS or Computer Engineering specialization, and department permission.</s>"}
+{"text": "<s>[INST] What does CPSC 399 involve? [/INST] CPSC 399 involves approved and supervised technical work experience for a minimum of 3.5 months, normally taken during the fall term of the fourth year.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 490? [/INST] CPSC 490 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 406? [/INST] CPSC 406 requires CPSC 302, CPSC 303, or MATH 307.</s>"}
+{"text": "<s>[INST] What are the prerequisites for CPSC 417? [/INST] CPSC 417 requires CPSC 313, CPSC 317, and a statistics course.</s>"}
+{"text": "<s>[INST] What is CPSC 404 about? [/INST] CPSC 404 is about Advanced Relational Databases, covering topics like query processing and optimization, and transaction control.</s>"}
+{"text": "<s>[INST] What is the focus of CPSC 416? [/INST] CPSC 416 focuses on the concepts and design of distributed systems.</s>"}
+{"text": "<s>[INST] What is the prerequisite for CPSC 440? [/INST] CPSC 440 requires CPSC 320 and CPSC 340.</s>"}
+{"text": "<s>[INST] What does CPSC 421 cover? [/INST] CPSC 421 covers the characterizations of computability, unsolvable problems, finite automata, and formal languages.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 399? [/INST] CPSC 399 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What are the core topics in CPSC 320? [/INST] Core topics in CPSC 320 include models of computation, choice of data structures, graph-theoretic, algebraic, and text processing algorithms.</s>"}
+{"text": "<s>[INST] What is the credit value of CPSC 499? [/INST] CPSC 499 has a credit value of 3.</s>"}
+{"text": "<s>[INST] What is CPSC 298? [/INST] CPSC 298 is the Co-operative Work Placement I.</s>"}
+{"text": "<s>[INST] What is the structure of CPSC 310? [/INST] CPSC 310 has a structure of [3-2-0].</s>"}
+{"text": "<s>[INST] What is CPSC 314 about? [/INST] CPSC 314 is about Computer Graphics, covering geometric transformations, 2-D/3-D graphics algorithms, and animation.</s>"}
