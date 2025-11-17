@@ -1,4 +1,7 @@
 # UBC CPSC AI Teaching Assistant
+
+`https://huggingface.co/spaces/Samecho/ubc-cpsc-ai-demo`
+
 ## Project Goal
 
 The base Llama 3 model has strong general knowledge, but it knows nothing about the specific, internal, and up-to-date course information of UBC (University of British Columbia) Computer Science (CPSC) — such as prerequisites or course descriptions.

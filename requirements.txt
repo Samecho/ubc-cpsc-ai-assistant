@@ -2,6 +2,7 @@ transformers
 peft 
 accelerate 
 bitsandbytes 
-trl 
-datasets 
+trl # training
+datasets # training
 torch
+gradio 
