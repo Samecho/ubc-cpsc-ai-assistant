@@ -6,7 +6,7 @@
 
 The base Llama 3 model has strong general knowledge, but it knows nothing about the specific, internal, and up-to-date course information of UBC (University of British Columbia) Computer Science (CPSC) — such as prerequisites or course descriptions.
 
-Through QLoRA fine-tuning, this project personalizes Llama 3 into a specialized Q&A assistant for UBC CPSC courses.
+Through QLoRA fine-tuning, this project personalizes Llama 3 into a specialized Q&A assistant for UBC CPSC courses using 247 lines of data.
 
 ## Tech Stack
 
